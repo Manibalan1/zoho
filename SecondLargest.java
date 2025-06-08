@@ -87,3 +87,4 @@ public class SecondLargest {
         }
     }
 }
+// Do not use split,substring,arrays,strings
